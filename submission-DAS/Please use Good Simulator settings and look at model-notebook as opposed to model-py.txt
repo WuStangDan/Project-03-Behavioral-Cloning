@@ -1,0 +1,3 @@
+Model.py is just the notebook I used exported as a .py file. The HTML contains way more information.
+
+The README.md is also just a markdown export of the README.html notebook.
